@@ -1,6 +1,9 @@
 # ChatBot-Development-with-Python
 This is my repository revolving around developing a ChatBot using Python! 
 
+![image](https://github.com/user-attachments/assets/cd46776a-fd9e-4577-b5e3-0ed6d35abae4)
+
+
 1) Define Requirements and Objectives
 
 Determine the chatbot's purpose.
